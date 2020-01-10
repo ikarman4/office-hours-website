@@ -1,6 +1,5 @@
 import React from 'react';
 import './index.css';
-import EpisodeCard from "../episode-card";
 
 function RecentEpisodes(props) {
   return (
