@@ -1,0 +1,20 @@
+.recent-episodes-list {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    padding: 10% 0;
+    justify-content: space-between;
+}
+
+.recent-episodes {
+    padding: 10%;
+    background-image: linear-gradient(to top, #FFF1F0, rgb(255, 255, 255));
+    display: flex;
+    flex-direction: column;
+}
+
+.browse-button {
+    align-self: center;
+}
+

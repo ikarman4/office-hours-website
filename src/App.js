@@ -1,24 +1,32 @@
 import React from 'react';
-import logo from './logo.svg';
+import Header from "./components/header"
+import WhatsThis from "./components/whats-this";
+import RecentEpisodes from "./components/recent-episodes";
+import Footer from "./components/footer";
 import './App.css';
+
+const EPISODES = [
+    {
+        name: "DR. LIZ ARNOLD",
+        description: "Learn more about Dr. Liz Arnold's industry experience and academic career in this episode of Office Hours.",
+        link: "https://google.com",
+        imageUrl: "https://ikarman4.github.io/LizArnold.jpg"
+    },
+    {
+        name: "PH.D. CANDIDATE ZACH GARDNER",
+        description: "Join us in hearing Zach's insight into graduate school along with his famous chili lime chicken recipe.",
+        link: "https://google.com",
+        imageUrl: "https://ikarman4.github.io/gardner.jpg"
+    }
+];
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header/>
+      <WhatsThis/>
+      <RecentEpisodes episodes={EPISODES}/>
+      <Footer/>
     </div>
   );
 }

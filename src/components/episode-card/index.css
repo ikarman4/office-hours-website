@@ -1,0 +1,12 @@
+.episode-card {
+    width: 300px;
+    height: 500px;
+    background: white;
+    border-radius: 4px;
+    padding: 5%;
+}
+
+.episode-image {
+    width: 225px;
+    height: 228px;
+}

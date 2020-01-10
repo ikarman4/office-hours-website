@@ -1,0 +1,7 @@
+.whats-this {
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(to bottom right, #71A2D0, rgb(255, 255, 255));
+    padding: 64px 10%;
+    background: #7F86F7;
+}
