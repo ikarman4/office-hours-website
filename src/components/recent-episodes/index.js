@@ -1,4 +1,5 @@
 import React from 'react';
+import EpisodeCard from "../episode-card";
 import './index.css';
 
 function RecentEpisodes(props) {
@@ -6,10 +7,10 @@ function RecentEpisodes(props) {
     <div className="recent-episodes">
       <h2 className="dark">LATEST EPISODES</h2>
       <div className="recent-episodes-list">
-        {props.episodes.map((episode, index) => {
+        {props.episodes.map((episode) => {
           return (
-            <div key={index+"episode"}>
-              EpisodeCard(episode)
+            <div key={episode.name}>
+              {EpisodeCard(episode)}
             </div>
           )
         })}
