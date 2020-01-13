@@ -3,17 +3,17 @@
 ## How to Develop for this website
 
 ### Noah's steps to success
-1. Create a new branch for what you want to work on
-1. Create a new Component for what you want to add
-2. Add your Component to the page Component
-3. If it is a new page, add it to the Router
-4. When you are finished, make sure everything is all cleaned up. 
-5. `git add .` `git commit -m "message here"` `git push`
-5. Open a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) from 
+1. Create a new branch for what you want to work on `git checkout -b <branch-name>`
+2. Create a new Component for what you want to add
+3. Add your Component to the page Component
+4. If it is a new page, add it to the Router
+5. When you are finished, make sure everything is all cleaned up. 
+6. `git add .` `git commit -m "message here"` `git push`
+7. Open a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) from 
 your `feature/` branch into the `develop` branch.
-6. Make sure that the [CI](https://help.github.com/en/actions) passes
-7. When all is good - Merge your Pull Request
-8. To go live with your new code - merge `develop` into `master` and it will
+8. Make sure that the [CI](https://help.github.com/en/actions) passes
+9. When all is good - Merge your Pull Request
+10. To go live with your new code - merge `develop` into `master` and it will
 automatically deploy to [heroku](https://www.heroku.com/what)
 
 ### Components
