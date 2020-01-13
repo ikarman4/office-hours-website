@@ -21,6 +21,30 @@ automatically deploy to [heroku](https://www.heroku.com/what)
 This website uses basic functional React components. Each component is in the
 `/components` directory, and has an `index.js` and an `index.css`. 
 
+`index.js`
+```js
+import React from 'react';
+import './index.css';
+
+function MyComponent() {
+  return (
+    <div className="my-component">
+        <p>My component's text</p>
+    </div>
+  );
+}
+
+export default MyComponent;
+```
+
+`index.css`
+```css
+.my-component {
+    display: flex;
+    color: red;
+}
+```
+
 Write your HTML (technically, it's JSX, but just pretend it's HTML) in the
 `render` function of each component.
 
@@ -31,8 +55,12 @@ an existing one, and changing it to be what you need.
 This project uses `react-router` to manage URL navigation.
 
 The Router lives in `App.js`. When you want to add a new page to the website,
-add a new `<Route>` inside the `<Switch>` that has your page component in it. 
+add a new `<Route>` inside the `<Switch>` that has your page component in it.
 
+## How to add an Episode
+
+In `App.js` there is a JSON object of Epsiodes. Carefully add a new episode to this object, and it will
+by added throughout the site. 
 
 ### Branches
 
@@ -40,12 +68,10 @@ add a new `<Route>` inside the `<Switch>` that has your page component in it.
 - `develop` - Development Branch
 - `feature/*` - Feature branches
 
-When making something new, 
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
