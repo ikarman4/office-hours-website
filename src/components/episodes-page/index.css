@@ -1,0 +1,11 @@
+.episodes-page-content {
+    padding: 64px 10%;
+    background-image: linear-gradient(to top, #FFF1F0, rgb(255, 255, 255));
+}
+
+.episodes-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
