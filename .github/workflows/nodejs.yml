@@ -1,6 +1,8 @@
 name: Node CI - Deploy
 
 on: [push]
+  branches:
+    - master
 
 jobs:
   build:
