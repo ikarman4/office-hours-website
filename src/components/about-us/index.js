@@ -1,14 +1,10 @@
 import React from 'react';
-import Header from "../header";
 import './index.css';
-import Footer from "../footer";
 
 export default function AboutUs() {
     return (
-      <div>
-        <Header/>
-        <AboutUs>
-        <Footer/>
+      <div className="about-us-page">
+        <h1 className="dark">ABOUT US</h1>
       </div>
     );
   }

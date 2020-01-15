@@ -7,7 +7,6 @@ import Footer from "../footer";
 function EpisodesPage(props) {
   return (
     <div className="episodes-page">
-      <Header/>
       <div className="episodes-page-content">
         <h2 className="dark">EPISODES</h2>
         <div className="episodes-list">
@@ -20,7 +19,6 @@ function EpisodesPage(props) {
           })}
         </div>
       </div>
-      <Footer/>
     </div>
   );
 }

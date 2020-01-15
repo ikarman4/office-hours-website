@@ -10,7 +10,8 @@ import EpisodesPage from "./components/episodes-page";
 import {slide as Menu} from 'react-burger-menu'
 import NavigationMenu from "./components/navigation-menu";
 import Footer from './components/footer';
-import Header from '.components/header';
+import Header from "./components/header";
+import AboutUs from "./components/about-us";
 
 const EPISODES = [
 
@@ -69,6 +70,9 @@ export default function App() {
           <Switch>
             <Route path="/episodes">
               <EpisodesPage episodes={EPISODES}/>
+            </Route>
+            <Route path={"/about-us"} >
+              <AboutUs/>
             </Route>
             {/* This * Always goes last! */}
             <Route path="*">
