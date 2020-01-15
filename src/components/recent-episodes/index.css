@@ -11,7 +11,7 @@
 }
 
 .recent-episodes {
-    padding: 0%;
+    padding: 10%;
     background-image: linear-gradient(to top, #FFF1F0, rgb(255, 255, 255));
     display: flex;
     flex-direction: column;
