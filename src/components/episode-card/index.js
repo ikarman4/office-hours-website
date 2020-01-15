@@ -27,7 +27,7 @@ function FullEpisodeCard(props) {
       <img src={props.imageUrl} alt={props.name} className="episode-image"/>
       <h5 className={"dark centered"}>{props.name}</h5>
       <p className="dark centered long-description">{props.longDescription}</p>
-      <a href={props.link}>LISTEN</a>
+      <a className="episode-card-listen-button" href={props.link}>LISTEN</a>
     </div>
   )
 }

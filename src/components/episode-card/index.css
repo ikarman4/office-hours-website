@@ -7,19 +7,23 @@
     padding: 5%;
     margin: 5%;
     box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.125);
-    justify-content: space-evenly;
+    justify-content: space-between;
+}
+
+.episode-card-listen-button {
+    margin: 8px;
 }
 
 .episode-image {
     width: 225px;
     min-height: 228px;
+    border-radius: 4px;
 }
 
 .long-description {
     font-size: 10px;
     text-align: left;
-    /*text-overflow: ellipsis;*/
     overflow: scroll;
-    max-height: 160px;
+    height: 160px;
     margin: 8px;
 }
