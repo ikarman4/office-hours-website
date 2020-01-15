@@ -12,6 +12,7 @@
     background-image: linear-gradient(to top, #FFF1F0, rgb(255, 255, 255));
     display: flex;
     flex-direction: column;
+    justify-content: space-evenly;
 }
 
 .browse-button {
