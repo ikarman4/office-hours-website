@@ -1,12 +1,13 @@
 .episode-card {
     min-width: 300px;
     max-width: 400px;
-    min-height: 500px;
+    height: 600px;
     background: white;
     border-radius: 4px;
     padding: 5%;
     margin: 5%;
     box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.125);
+    justify-content: space-evenly;
 }
 
 .episode-image {
@@ -16,4 +17,9 @@
 
 .long-description {
     font-size: 10px;
+    text-align: left;
+    /*text-overflow: ellipsis;*/
+    overflow: scroll;
+    max-height: 160px;
+    margin: 8px;
 }
