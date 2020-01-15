@@ -16,7 +16,7 @@ function ShortEpisodeCard(props) {
       <img src={props.imageUrl} alt={props.name} className="episode-image"/>
       <h5 className={"dark centered"}>{props.name}</h5>
       <p className="dark centered">{props.description}</p>
-      <Link to={"/episodes"}>LEARN MORE</Link>
+      <Link to={"/episodes"} className="dark">LEARN MORE</Link>
     </div>
   )
 }

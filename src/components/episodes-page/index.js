@@ -1,12 +1,10 @@
 import React from 'react';
 import EpisodeCard from "../episode-card";
-import Header from "../header";
 import './index.css';
 
 function EpisodesPage(props) {
   return (
     <div className="episodes-page">
-      <Header/>
       <div className="episodes-page-content">
         <h2 className="dark">EPISODES</h2>
         <div className="episodes-list">
