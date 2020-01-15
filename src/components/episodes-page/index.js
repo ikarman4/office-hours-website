@@ -2,6 +2,7 @@ import React from 'react';
 import EpisodeCard from "../episode-card";
 import Header from "../header";
 import './index.css';
+import Footer from "../footer";
 
 function EpisodesPage(props) {
   return (
@@ -19,6 +20,7 @@ function EpisodesPage(props) {
           })}
         </div>
       </div>
+      <Footer/>
     </div>
   );
 }

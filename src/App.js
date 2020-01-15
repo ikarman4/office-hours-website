@@ -9,8 +9,11 @@ import HomePage from "./components/home-page";
 import EpisodesPage from "./components/episodes-page";
 import {slide as Menu} from 'react-burger-menu'
 import NavigationMenu from "./components/navigation-menu";
+import Footer from './components/footer';
+import Header from '.components/header';
 
 const EPISODES = [
+
   {
     name: "DR. LIZ ARNOLD",
     description: "Learn more about Dr. Liz Arnold's industry experience and academic career in this episode of Office Hours.",
@@ -51,6 +54,7 @@ const EPISODES = [
     imageUrl: "https://ikarman4.github.io/IMG_7733.PNG",
     longDescription: "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it."
   }
+
 ];
 
 
@@ -61,6 +65,7 @@ export default function App() {
           <Menu>
             <NavigationMenu/>
           </Menu>
+          <Header/>
           <Switch>
             <Route path="/episodes">
               <EpisodesPage episodes={EPISODES}/>
@@ -70,6 +75,7 @@ export default function App() {
               <HomePage episodes={EPISODES}/>
             </Route>
           </Switch>
+          <Footer/>
         </Router>
 
     </div>
