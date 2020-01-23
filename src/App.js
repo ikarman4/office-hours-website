@@ -52,7 +52,7 @@ const EPISODES = [
     name: "ARE WE DOING THIS RIGHT?",
     description: "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it.",
     link: "https://drive.google.com/open?id=1Q9iV4LfvGbpAJNpoyJ5_fCJInEsheS98",
-    imageUrl: "",
+    imageUrl: "https://ikarman4.github.io/podcast-artwork.png",
     longDescription: "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it."
   }
 
