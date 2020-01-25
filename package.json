@@ -18,7 +18,9 @@
     "yarn": "^1.21.1"
   },
   "scripts": {
-    "start": "node -r esm server.js",
+    "start": "yarn build && yarn start:server",
+    "start:server": "node -r esm server.js",
+    "dev": "node -r esm server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
