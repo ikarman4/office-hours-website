@@ -16,6 +16,7 @@ const getFeed = () => {
     feed_url: 'http://officehourspod.com/rss',
     site_url: 'http://officehourspod.com',
     image_url: 'https://office-hours-pod.s3.us-east-2.amazonaws.com/podcast-artwork.png',
+    itunesImage: 'https://office-hours-pod.s3.us-east-2.amazonaws.com/podcast-artwork.png',
     docs: 'http://officehourspod.com/rss/docs.html',
     author: 'Ian Karman',
     managingEditor: 'Ian Karman',
