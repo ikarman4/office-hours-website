@@ -23,6 +23,7 @@ const getFeed = () => {
     copyright: '2020 Ian Karman',
     language: 'en',
     categories: ['Category 1','Category 2','Category 3'],
+    itunesOwner: { name: 'Ian Karman', email:'ikarman4@gmail.com' },
     //pubDate: 'May 20, 2012 04:00:00 GMT',
     ttl: '60',
   });
