@@ -5,10 +5,10 @@ import {
   Route
 } from "react-router-dom";
 import './App.css';
-import HomePage from "./client/components/home-page";
-import EpisodesPage from "./client/components/episodes-page";
+import HomePage from "./client/components/home-page/index.js";
+import EpisodesPage from "./client/components/episodes-page/index.js";
 import {slide as Menu} from 'react-burger-menu'
-import NavigationMenu from "./client/components/navigation-menu";
+import NavigationMenu from "./client/components/navigation-menu/index.js";
 import Footer from './client/components/footer';
 import Header from "./client/components/header";
 import AboutUs from "./client/components/about-us";
@@ -52,7 +52,7 @@ const EPISODES = [
     name: "ARE WE DOING THIS RIGHT?",
     description: "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it.",
     link: "https://drive.google.com/open?id=1Q9iV4LfvGbpAJNpoyJ5_fCJInEsheS98",
-    imageUrl: "https://ikarman4.github.io/IMG_7733.PNG",
+    imageUrl: "https://ikarman4.github.io/podcast-artwork.PNG",
     longDescription: "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it."
   }
 
