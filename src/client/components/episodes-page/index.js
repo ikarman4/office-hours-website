@@ -13,6 +13,7 @@ function EpisodesPage(props) {
             return (
               <div key={episode.name}>
                 <EpisodeCard episode={episode} full/>
+                <Spotify-Player uri="spotify:album:2ol1AWwdPIVeEHj9kb5reV"/>
               </div>
             )
           })}
