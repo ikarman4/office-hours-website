@@ -1,5 +1,5 @@
 .footer {
-    background-image: url('src/client/components/footer/red_wave.png');
+    background-image: url('./red_wave.png');
     background-size: cover;
     padding: 5% 10%;
     justify-content: left;

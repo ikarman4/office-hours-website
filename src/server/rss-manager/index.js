@@ -33,7 +33,6 @@ const getFeed = () => {
   });
 
   PODCAST_FEED.forEach((item) => {
-    console.log(item);
     feed.addItem(item);
   });
 
