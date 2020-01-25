@@ -19,14 +19,14 @@ async function getData() {
   })
 
           //NUMBER OF SESSIONS TODAY
-//   const result = await google.analytics('v3').data.ga.get({
-//     ...defaults,
-//     'start-date': 'today',
-//     'end-date': 'today',
-//     'metrics': 'ga:sessions'
-//   })
+  // const result = await google.analytics('v3').data.ga.get({
+  //   ...defaults,
+  //   'start-date': 'today',
+  //   'end-date': 'today',
+  //   'metrics': 'ga:sessions'
+  // })
   
-//   console.dir(result.data.rows[0][0])
+  //  console.dir(result.data.rows[0][0])
 
 
           //NUMBER OF SESSIONS YESTERDAY
