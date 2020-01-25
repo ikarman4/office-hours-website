@@ -5,13 +5,13 @@ import {
   Route
 } from "react-router-dom";
 import './App.css';
-import HomePage from "./components/home-page";
-import EpisodesPage from "./components/episodes-page";
+import HomePage from "./client/components/home-page";
+import EpisodesPage from "./client/components/episodes-page";
 import {slide as Menu} from 'react-burger-menu'
-import NavigationMenu from "./components/navigation-menu";
-import Footer from './components/footer';
-import Header from "./components/header";
-import AboutUs from "./components/about-us";
+import NavigationMenu from "./client/components/navigation-menu";
+import Footer from './client/components/footer';
+import Header from "./client/components/header";
+import AboutUs from "./client/components/about-us";
 
 const EPISODES = [
 

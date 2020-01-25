@@ -1,0 +1,48 @@
+[
+  {
+    "title": "item title",
+    "description": "use this for the content. It can include html.",
+    "url": "http://example.com/article4?this&that",
+    "categories": [
+      "Education",
+      "Category 2",
+      "Category 3",
+      "Category 4"
+    ],
+    "date": "May 27, 2012",
+    "lat": 33.417974,
+    "long": -111.933231,
+    "itunesAuthor": "Ian Karman",
+    "itunesExplicit": false,
+    "itunesSubtitle": "I am a sub title",
+    "itunesSummary": "I am a summary",
+    "itunesDuration": 12345,
+    "itunesKeywords": [
+      "javascript",
+      "podcast"
+    ]
+  },
+  {
+    "title": "item title",
+    "description": "use this for the content. It can include html.",
+    "url": "http://example.com/article4?this&that",
+    "categories": [
+      "Category 1",
+      "Category 2",
+      "Category 3",
+      "Category 4"
+    ],
+    "date": "May 27, 2012",
+    "lat": 33.417974,
+    "long": -111.933231,
+    "itunesAuthor": "Max Nowack",
+    "itunesExplicit": false,
+    "itunesSubtitle": "I am a sub title",
+    "itunesSummary": "I am a summary",
+    "itunesDuration": 12345,
+    "itunesKeywords": [
+      "javascript",
+      "podcast"
+    ]
+  }
+]
