@@ -1,48 +1,16 @@
 [
   {
-    "title": "item title",
-    "description": "use this for the content. It can include html.",
-    "url": "http://example.com/article4?this&that",
+    "title": "Are We Doing This Right?",
+    "description": "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it.",
+    "url": "https://office-hours-pod.s3.us-east-2.amazonaws.com/Pod+1.mp3",
     "categories": [
       "Education",
       "Category 2",
       "Category 3",
       "Category 4"
     ],
-    "date": "May 27, 2012",
-    "lat": 33.417974,
-    "long": -111.933231,
-    "itunesAuthor": "Ian Karman",
-    "itunesExplicit": false,
-    "itunesSubtitle": "I am a sub title",
-    "itunesSummary": "I am a summary",
-    "itunesDuration": 12345,
-    "itunesKeywords": [
-      "javascript",
-      "podcast"
-    ]
-  },
-  {
-    "title": "item title",
-    "description": "use this for the content. It can include html.",
-    "url": "http://example.com/article4?this&that",
-    "categories": [
-      "Category 1",
-      "Category 2",
-      "Category 3",
-      "Category 4"
-    ],
-    "date": "May 27, 2012",
-    "lat": 33.417974,
-    "long": -111.933231,
-    "itunesAuthor": "Max Nowack",
-    "itunesExplicit": false,
-    "itunesSubtitle": "I am a sub title",
-    "itunesSummary": "I am a summary",
-    "itunesDuration": 12345,
-    "itunesKeywords": [
-      "javascript",
-      "podcast"
-    ]
+    "date": "January 24, 2020",
+    "lat": 42.361145,
+    "long": -71.057083
   }
 ]
