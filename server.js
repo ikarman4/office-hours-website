@@ -8,7 +8,6 @@ app.use(express.static(path.join(__dirname, 'build')));
 const feed = RSSManager.getFeed();
 
 app.get(`/rss`, function (req, res) {
-  console.log(feed);
   res.send(feed);
 });
 
