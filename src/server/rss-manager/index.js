@@ -25,7 +25,7 @@ const getFeed = () => {
     language: 'en',
     categories: ['Category 1','Category 2','Category 3'],
     itunesOwner: { name: 'Ian Karman', email:'ikarman4@gmail.com' },
-    itunesCategory: [{text:"Science", subcats:[{text:"Life Sciences"}]}, {text:"Science", subcats:[{text:"Natural Sciences"}]}]
+    itunesCategory: [{text:"Science", subcats:[{text:"Life Sciences"}]}, {text:"Science", subcats:[{text:"Natural Sciences"}]}],
     //pubDate: 'May 20, 2012 04:00:00 GMT',
     ttl: '60',
   });
