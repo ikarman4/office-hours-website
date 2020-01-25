@@ -11,6 +11,8 @@
     ],
     "date": "January 24, 2020",
     "lat": 42.361145,
-    "long": -71.057083
+    "long": -71.057083,
+    "enclosure":{"url":"https://office-hours-pod.s3.us-east-2.amazonaws.com/Pod+1.mp3"}
   }
+
 ]
