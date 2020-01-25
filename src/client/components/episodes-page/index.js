@@ -2,6 +2,7 @@ import React from 'react';
 import EpisodeCard from "../episode-card";
 import './index.css';
 
+
 function EpisodesPage(props) {
   return (
     <div className="episodes-page">
