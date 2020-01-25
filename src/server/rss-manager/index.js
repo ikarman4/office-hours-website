@@ -7,7 +7,7 @@ const getFeed = () => {
     title: 'Office Hours',
     description: 'Follow two curious kids as they navigate and explore big, ' +
     'seemingly intangible questions many people interested in research struggle ' +
-    'with: what differentiates prolific researchers from those around them? Which ' +
+    'with: What differentiates prolific researchers from those around them? Which ' +
      'topics or problems are worth spending a lifetime studying? What actionable ' +
      'steps can I take to illuminate my own interests? Join us in getting to know. ' +
       'As well as learning from researchers who are deeply passionate about their work. ' +
@@ -25,6 +25,7 @@ const getFeed = () => {
     language: 'en',
     categories: ['Category 1','Category 2','Category 3'],
     itunesOwner: { name: 'Ian Karman', email:'ikarman4@gmail.com' },
+    itunesCategory: [{text:"Science", subcats:[{text:"Life Sciences"}]}, {text:"Science", subcats:[{text:"Natural Sciences"}]}]
     //pubDate: 'May 20, 2012 04:00:00 GMT',
     ttl: '60',
   });
