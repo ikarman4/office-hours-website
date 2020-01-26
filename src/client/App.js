@@ -15,6 +15,7 @@ import AboutUs from "./components/about-us";
 
 const EPISODES = [
 
+
   //{
     //   name: "PH.D JENNY VOJTECH",
     //   description: "Listen in as we hear Jenny's perspective on her graduate studies at Boston University and her current clinical research.",
@@ -50,6 +51,7 @@ const EPISODES = [
   //     "we reflect on the graduate school process, discuss some bomb cooking recipes, and delve into the life of a " +
   //     "researcher in the city of Boston."
   // },
+
   {
     name: "DR. KYLE GOBROGGE - A COMFORT IN NAIVETE, THE JOURNEY BEGINS",
     description: "Join us in hearing Zach's insight into graduate school along with his famous chili lime chicken recipe.",
