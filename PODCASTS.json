@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Are We Doing This Right?",
+    "description": "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it.",
+    "url": "https://office-hours-pod.s3.us-east-2.amazonaws.com/Pod+1.mp3",
+    "categories": [
+      "Education",
+      "Category 2",
+      "Category 3",
+      "Category 4"
+    ],
+    "date": "January 24, 2020",
+    "lat": 42.361145,
+    "long": -71.057083,
+    "enclosure":{"url":"https://office-hours-pod.s3.us-east-2.amazonaws.com/Pod+1.mp3"}
+  
+  },
+
+  {
+    "title": "Dr. Kyle Gobrogge - A Comfort In Naivete, The Journey Begins",
+    "description": "In this episode of Office Hours, Ian and Ankur set up shop in the office of their 'Principles of Neuroscience' lab professor Dr. Kyle Gobrogge. An excellent teacher and an expert in the field of neurobiology, Dr. Gobrogge has won numerous awards for his work as an educator and researcher, including the 2008 K. Patricia Cross Future Leaders Fellowship of the AAC&U. In this first episode, we cover various topics ranging from traits of successful students in research to maintaining a work-life balance to the impact that policy can have on how research is conducted.",
+    "url": "https://office-hours-pod.s3.us-east-2.amazonaws.com/Gobrogge+(1).mp3",
+    "categories": [
+      "Education",
+      "Category 2",
+      "Category 3",
+      "Category 4"
+    ],
+    "date": "January 25, 2020",
+    "lat": 42.361145,
+    "long": -71.057083,
+    "enclosure":{"url":"https://office-hours-pod.s3.us-east-2.amazonaws.com/Gobrogge+(1).mp3"}
+  }
+
+
+]
