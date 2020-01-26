@@ -1,0 +1,28 @@
+.about-card {
+    width: 750px;
+    height: 600px;
+    background: white;
+    border-radius: 4px;
+    padding: 5%;
+    margin: 5%;
+    box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.125);
+    justify-content: space-between;
+}
+
+.about-card-button {
+    margin: 8px;
+}
+
+.about-image {
+    width: 225px;
+    min-height: 228px;
+    border-radius: 4px;
+}
+
+.description {
+    font-size: 10px;
+    text-align: left;
+    overflow: scroll;
+    height: 160px;
+    margin: 8px;
+}
