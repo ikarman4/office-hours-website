@@ -15,27 +15,41 @@ import AboutUs from "./components/about-us";
 
 const EPISODES = [
 
-  {
-    name: "DR. LIZ ARNOLD",
-    description: "Learn more about Dr. Liz Arnold's industry experience and academic career in this episode of Office Hours.",
-    link: "https://drive.google.com/open?id=1Wtot-ZFAf1qys_8HgTCGWisydEYHtTh3",
-    imageUrl: "https://ikarman4.github.io/LizArnold.jpg",
-    longDescription: "Dr. Liz Arnold received her Ph.D. at the University of Texas at Austin. Throughout her career," +
-      "she has done work for multiple notable pharmaceutical companies in New England such as Pfizer, Vertex, and Novartis." +
-      "Currently, she works as a scientific-technical leader at the Novartis Institutes for Biomedical Research. In this episode, " +
-      "Liz gives a thoughtful reflection on her undergraduate experience, and we explore the question “What do many students get " +
-      "wrong about scientific work in pharmaceuticals and industry?”"
-  },
-  {
-    name: "PH.D. CANDIDATE ZACH GARDNER",
-    description: "Join us in hearing Zach's insight into graduate school along with his famous chili lime chicken recipe.",
-    link: "https://google.com",
-    imageUrl: "https://ikarman4.github.io/gardner.jpg",
-    longDescription: "Zach Gardner is currently a graduate student at the Man Lab studying Autism Spectrum Disorder on the " +
-      "cellular and molecular level. He got his BS in biological sciences in 2014 from Colorado Mesa University. In this episode, " +
-      "we reflect on the graduate school process, discuss some bomb cooking recipes, and delve into the life of a " +
-      "researcher in the city of Boston."
-  },
+  //{
+    //   name: "PH.D JENNY VOJTECH",
+    //   description: "Listen in as we hear Jenny's perspective on her graduate studies at Boston University and her current clinical research.",
+    //   link: "",
+    //   imageUrl: "",
+    //   longDescription: "Jenny Vojtech is a graduate student in the STEPP Lab for Sensorimotor " +
+    //   "Rehabilitation Engineering, where she develops quantitative methods for clinical voice assessment. " +
+    //   "She received her BS in bioengineering from the University of Maryland in 2015, and her MS in biomedical " +
+    //   "engineering from Boston University in 2018. She is currently pursuing a PhD in Biomedical Engineering " +
+    //   "from Boston University. Her current research interests involve developing computational methods to " +
+    //   "improve the clinical assessment of voice disorders and applying quantitative techniques to enhance " +
+    //   "augmentative and alternative communication (AAC) device access."
+    // },
+
+  // {
+  //   name: "DR. LIZ ARNOLD",
+  //   description: "Learn more about Dr. Liz Arnold's industry experience and academic career in this episode of Office Hours.",
+  //   link: "https://drive.google.com/open?id=1Wtot-ZFAf1qys_8HgTCGWisydEYHtTh3",
+  //   imageUrl: "https://ikarman4.github.io/LizArnold.jpg",
+  //   longDescription: "Dr. Liz Arnold received her Ph.D. at the University of Texas at Austin. Throughout her career," +
+  //     "she has done work for multiple notable pharmaceutical companies in New England such as Pfizer, Vertex, and Novartis." +
+  //     "Currently, she works as a scientific-technical leader at the Novartis Institutes for Biomedical Research. In this episode, " +
+  //     "Liz gives a thoughtful reflection on her undergraduate experience, and we explore the question “What do many students get " +
+  //     "wrong about scientific work in pharmaceuticals and industry?”"
+  // },
+  // {
+  //   name: "PH.D. CANDIDATE ZACH GARDNER",
+  //   description: "Join us in hearing Zach's insight into graduate school along with his famous chili lime chicken recipe.",
+  //   link: "https://google.com",
+  //   imageUrl: "https://ikarman4.github.io/gardner.jpg",
+  //   longDescription: "Zach Gardner is currently a graduate student at the Man Lab studying Autism Spectrum Disorder on the " +
+  //     "cellular and molecular level. He got his BS in biological sciences in 2014 from Colorado Mesa University. In this episode, " +
+  //     "we reflect on the graduate school process, discuss some bomb cooking recipes, and delve into the life of a " +
+  //     "researcher in the city of Boston."
+  // },
   {
     name: "DR. KYLE GOBROGGE - A COMFORT IN NAIVETE, THE JOURNEY BEGINS",
     description: "Join us in hearing Zach's insight into graduate school along with his famous chili lime chicken recipe.",
