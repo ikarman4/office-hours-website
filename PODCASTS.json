@@ -2,7 +2,7 @@
   {
     "title": "Are We Doing This Right?",
     "description": "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it.",
-    "url": "https://office-hours-pod.s3.us-east-2.amazonaws.com/Pod+1.mp3",
+    "url": "https://office-hours-pod.s3.us-east-2.amazonaws.com/New+Intro.mp3",
     "categories": [
       "Education",
       "Category 2",
@@ -12,7 +12,7 @@
     "date": "January 24, 2020",
     "lat": 42.361145,
     "long": -71.057083,
-    "enclosure":{"url":"https://office-hours-pod.s3.us-east-2.amazonaws.com/Pod+1.mp3"}
+    "enclosure":{"url":"https://office-hours-pod.s3.us-east-2.amazonaws.com/New+Intro.mp3"}
   
   },
 

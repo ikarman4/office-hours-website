@@ -9,8 +9,8 @@ const getFeed = () => {
     'seemingly intangible questions many people interested in research struggle ' +
     'with: What differentiates prolific researchers from those around them? Which ' +
      'topics or problems are worth spending a lifetime studying? What actionable ' +
-     'steps can I take to illuminate my own interests? Join us in getting to know. ' +
-      'As well as learning from researchers who are deeply passionate about their work. ' +
+     'steps can I take to illuminate my own interests? Join us in getting to know ' +
+      'and learning from researchers who are deeply passionate about their work. ' +
        'The leaders that are tasked with solving the ever-growing number of problems ' +
         'we face today.',
     feed_url: 'http://officehourspod.com/rss',
@@ -18,7 +18,7 @@ const getFeed = () => {
     image_url: 'https://office-hours-pod.s3.us-east-2.amazonaws.com/podcast-artwork.png',
     itunesImage: 'https://office-hours-pod.s3.us-east-2.amazonaws.com/podcast-artwork.png',
     docs: 'http://officehourspod.com/rss/docs.html',
-    author: 'Ian Karman',
+    author: 'Ian Karman and Ankur Bamezai',
     managingEditor: 'Ian Karman',
     webMaster: 'Ian Karman',
     copyright: '2020 Ian Karman',
