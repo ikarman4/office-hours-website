@@ -17,7 +17,7 @@ const EPISODES = [
 
 
   //{
-    //   name: "PH.D JENNY VOJTECH",
+    //   name: "PH.D CANDIDATE JENNY VOJTECH",
     //   description: "Listen in as we hear Jenny's perspective on her graduate studies at Boston University and her current clinical research.",
     //   link: "",
     //   imageUrl: "",
@@ -54,7 +54,7 @@ const EPISODES = [
 
   {
     name: "DR. KYLE GOBROGGE - A COMFORT IN NAIVETE, THE JOURNEY BEGINS",
-    description: "Join us in hearing Zach's insight into graduate school along with his famous chili lime chicken recipe.",
+    description: "Politics in science, traits of successful students, work life balance, all covered in this episode of Office Hours",
     link: "https://drive.google.com/open?id=1gwr3buSEdCGo_o295YzB3GTUH4BkZP-p",
     imageUrl: "https://ikarman4.github.io/KyleBioPic-e1563549753639.png",
     longDescription: "In this episode of Office Hours, Ian and Ankur set up shop in the office of their 'Principles of" +
