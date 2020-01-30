@@ -67,7 +67,7 @@ const EPISODES = [
   {
     name: "ARE WE DOING THIS RIGHT?",
     description: "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it.",
-    link: "https://drive.google.com/open?id=1Q9iV4LfvGbpAJNpoyJ5_fCJInEsheS98",
+    link: "https://office-hours-pod.s3.us-east-2.amazonaws.com/New+Intro.mp3",
     imageUrl: "https://ikarman4.github.io/podcast-artwork.png",
     longDescription: "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it."
   }
