@@ -10,7 +10,7 @@ const getFeed = () => {
     'with: What differentiates prolific researchers from those around them? Which ' +
      'topics or problems are worth spending a lifetime studying? What actionable ' +
      'steps can I take to illuminate my own interests? Join us in getting to know ' +
-      'and learning from researchers who are deeply passionate about their work. ' +
+      'and learn from researchers who are deeply passionate about their work. ' +
        'The leaders that are tasked with solving the ever-growing number of problems ' +
         'we face today.',
     feed_url: 'http://officehourspod.com/rss',
