@@ -10,6 +10,7 @@
       "Category 4"
     ],
     "date": "January 24, 2020",
+    "itunesDuration": 92,
     "lat": 42.361145,
     "long": -71.057083,
     "enclosure":{"url":"https://office-hours-pod.s3.us-east-2.amazonaws.com/New+Intro.mp3"}
@@ -27,6 +28,7 @@
       "Category 4"
     ],
     "date": "January 25, 2020",
+    "itunesDuration": 2474,
     "lat": 42.361145,
     "long": -71.057083,
     "enclosure":{"url":"https://office-hours-pod.s3.us-east-2.amazonaws.com/Gobrogge+(1).mp3"}
