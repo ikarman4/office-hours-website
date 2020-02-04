@@ -19,7 +19,7 @@ const EPISODES = [
   //{
     //   name: "PH.D CANDIDATE JENNY VOJTECH",
     //   description: "Listen in as we hear Jenny's perspective on her graduate studies at Boston University and her current clinical research.",
-    //   link: "",
+    //   link: "http://smarturl.it/h0zigc",
     //   imageUrl: "",
     //   longDescription: "Jenny Vojtech is a graduate student in the STEPP Lab for Sensorimotor " +
     //   "Rehabilitation Engineering, where she develops quantitative methods for clinical voice assessment. " +
@@ -33,7 +33,7 @@ const EPISODES = [
   // {
   //   name: "DR. LIZ ARNOLD",
   //   description: "Learn more about Dr. Liz Arnold's industry experience and academic career in this episode of Office Hours.",
-  //   link: "https://drive.google.com/open?id=1Wtot-ZFAf1qys_8HgTCGWisydEYHtTh3",
+  //   link: "http://smarturl.it/h0zigc",
   //   imageUrl: "https://ikarman4.github.io/LizArnold.jpg",
   //   longDescription: "Dr. Liz Arnold received her Ph.D. at the University of Texas at Austin. Throughout her career," +
   //     "she has done work for multiple notable pharmaceutical companies in New England such as Pfizer, Vertex, and Novartis." +
@@ -44,7 +44,7 @@ const EPISODES = [
   // {
   //   name: "PH.D. CANDIDATE ZACH GARDNER",
   //   description: "Join us in hearing Zach's insight into graduate school along with his famous chili lime chicken recipe.",
-  //   link: "https://google.com",
+  //   link: "http://smarturl.it/h0zigc",
   //   imageUrl: "https://ikarman4.github.io/gardner.jpg",
   //   longDescription: "Zach Gardner is currently a graduate student at the Man Lab studying Autism Spectrum Disorder on the " +
   //     "cellular and molecular level. He got his BS in biological sciences in 2014 from Colorado Mesa University. In this episode, " +
@@ -55,7 +55,7 @@ const EPISODES = [
   {
     name: "DR. KYLE GOBROGGE - A COMFORT IN NAIVETE, THE JOURNEY BEGINS",
     description: "Politics in science, traits of successful students, work life balance, all covered in this episode of Office Hours",
-    link: "https://office-hours-pod.s3.us-east-2.amazonaws.com/Gobrogge+(1).mp3",
+    link: "http://smarturl.it/h0zigc",
     imageUrl: "https://ikarman4.github.io/KyleBioPic-e1563549753639.png",
     longDescription: "In this episode of Office Hours, Ian and Ankur set up shop in the office of their 'Principles of" +
       " Neuroscience' lab professor Dr. Kyle Gobrogge. An excellent teacher and an expert in the field of neurobiology, " +
@@ -67,7 +67,7 @@ const EPISODES = [
   {
     name: "ARE WE DOING THIS RIGHT?",
     description: "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it.",
-    link: "https://office-hours-pod.s3.us-east-2.amazonaws.com/New+Intro.mp3",
+    link: "http://smarturl.it/h0zigc",
     imageUrl: "https://ikarman4.github.io/podcast-artwork.png",
     longDescription: "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it."
   }
