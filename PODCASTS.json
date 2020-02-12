@@ -32,6 +32,24 @@
     "lat": 42.361145,
     "long": -71.057083,
     "enclosure":{"url":"https://office-hours-pod.s3.us-east-2.amazonaws.com/Gobrogge+(1).mp3"}
+  },
+
+  {
+    "title": "Dr. Liz Arnold",
+    "description": "Dr. Liz Arnold received her Ph.D. at the University of Texas at Austin. Throughout her career, she has done work for multiple notable pharmaceutical companies in New England such as Pfizer, Vertex, and Novartis. Currently, she works as a scientific-technical leader at the Novartis Institutes for Biomedical Research. In this episode, Liz gives a thoughtful reflection on her undergraduate experience, and we explore the question “What do many students get wrong about scientific work in pharmaceuticals and industry?",
+    "url": "https://office-hours-pod.s3.us-east-2.amazonaws.com/liz+arnold.mp3",
+    "categories": [
+      "Education",
+      "Category 2",
+      "Category 3",
+      "Category 4"
+    ],
+    "date": "February 11, 2020",
+    "itunesDuration": 2969,
+    "lat": 42.361145,
+    "long": -71.057083,
+    "enclosure":{"url":"https://office-hours-pod.s3.us-east-2.amazonaws.com/liz+arnold.mp3"}
+  
   }
 
 
