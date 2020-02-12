@@ -32,7 +32,7 @@ const EPISODES = [
 
   {
     name: "DR. LIZ ARNOLD",
-    description: "Learn more about Dr. Liz Arnold's industry experience and academic career in this episode of Office Hours.",
+    description: "Today on Office Hours we discuss Dr. Liz Arnold's unique perspective working in both industry and academia and reflect on the current undergraduate experience in STEM.",
     link: "http://smarturl.it/h0zigc",
     imageUrl: "https://ikarman4.github.io/LizArnold.jpg",
     longDescription: "Dr. Liz Arnold received her Ph.D. at the University of Texas at Austin. Throughout her career," +
