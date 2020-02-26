@@ -18,7 +18,7 @@ const EPISODES = [
 
   {
       name: "PH.D CANDIDATE JENNY VOJTECH",
-      description: "Listen in as we hear Jenny's perspective on her graduate studies at Boston University and her current clinical research.",
+      description: "The niche field of speech science as well as stories and lessons from her clinical work at the Stepp Lab, Jenny Vojtech today on Office Hours.",
       link: "http://smarturl.it/h0zigc",
       imageUrl: "https://office-hours-pod.s3.us-east-2.amazonaws.com/jenny-vojtech.jpg",
       longDescription: "Jenny Vojtech is a graduate student in the STEPP Lab for Sensorimotor " +
