@@ -16,19 +16,19 @@ import AboutUs from "./components/about-us";
 const EPISODES = [
 
 
-  //{
-    //   name: "PH.D CANDIDATE JENNY VOJTECH",
-    //   description: "Listen in as we hear Jenny's perspective on her graduate studies at Boston University and her current clinical research.",
-    //   link: "http://smarturl.it/h0zigc",
-    //   imageUrl: "",
-    //   longDescription: "Jenny Vojtech is a graduate student in the STEPP Lab for Sensorimotor " +
-    //   "Rehabilitation Engineering, where she develops quantitative methods for clinical voice assessment. " +
-    //   "She received her BS in bioengineering from the University of Maryland in 2015, and her MS in biomedical " +
-    //   "engineering from Boston University in 2018. She is currently pursuing a PhD in Biomedical Engineering " +
-    //   "from Boston University. Her current research interests involve developing computational methods to " +
-    //   "improve the clinical assessment of voice disorders and applying quantitative techniques to enhance " +
-    //   "augmentative and alternative communication (AAC) device access."
-    // },
+  {
+      name: "PH.D CANDIDATE JENNY VOJTECH",
+      description: "Listen in as we hear Jenny's perspective on her graduate studies at Boston University and her current clinical research.",
+      link: "http://smarturl.it/h0zigc",
+      imageUrl: "https://office-hours-pod.s3.us-east-2.amazonaws.com/jenny-vojtech.jpg",
+      longDescription: "Jenny Vojtech is a graduate student in the STEPP Lab for Sensorimotor " +
+      "Rehabilitation Engineering, where she develops quantitative methods for clinical voice assessment. " +
+      "She received her BS in bioengineering from the University of Maryland in 2015, and her MS in biomedical " +
+      "engineering from Boston University in 2018. She is currently pursuing a PhD in Biomedical Engineering " +
+      "from Boston University. Her current research interests involve developing computational methods to " +
+      "improve the clinical assessment of voice disorders and applying quantitative techniques to enhance " +
+      "augmentative and alternative communication (AAC) device access."
+    },
 
   {
     name: "DR. LIZ ARNOLD",

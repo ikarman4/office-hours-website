@@ -52,5 +52,22 @@
   
   }
 
+  {
+    "title": "Ph.D Candidate Jenny Vojtech",
+    "description": "",
+    "url": "https://office-hours-pod.s3.us-east-2.amazonaws.com/jenny-final.mp3",
+    "categories": [
+      "Education",
+      "Category 2",
+      "Category 3",
+      "Category 4"
+    ],
+    "date": "February 26, 2020",
+    "itunesDuration": 3115,
+    "lat": 42.361145,
+    "long": -71.057083,
+    "enclosure":{"url":"https://office-hours-pod.s3.us-east-2.amazonaws.com/jenny-final.mp3"}
+  
+  }
 
 ]
