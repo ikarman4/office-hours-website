@@ -68,6 +68,24 @@
     "long": -71.057083,
     "enclosure":{"url":"https://office-hours-pod.s3.us-east-2.amazonaws.com/jenny-final.mp3"}
   
+  },
+
+  {
+    "title": "Ph.D Candidate Jordan Harrod - Brain Tech and Talk",
+    "description": "Jordan Harrod is a Ph.D. Student in the Harvard-MIT Health Sciences and Technology program under Dr. Ed Boyden and Dr. Emery Brown. Combining interests in neuroengineering and AI, her research aims to use brain stimulation technology to understand clinical pain and anesthesia. When Jordan isn’t in lab you can find her all over Boston either training for the Spartan Race, recording videos for her youtube channel, or writing for Science in the News. In this episode of Office Hours we talk about turning passions and ideas into projects, misconceptions about artificial intelligence, and living life in controlled chaos.",
+    "url": "https://office-hours-pod.s3.us-east-2.amazonaws.com/LANDR-jordan-with-cut-Medium-Balanced.Mp3",
+    "categories": [
+      "Education",
+      "Category 2",
+      "Category 3",
+      "Category 4"
+    ],
+    "date": ", 2020",
+    "itunesDuration": 2418,
+    "lat": 42.361145,
+    "long": -71.057083,
+    "enclosure":{"url":"https://office-hours-pod.s3.us-east-2.amazonaws.com/LANDR-jordan-with-cut-Medium-Balanced.Mp3"}
+  
   }
 
 ]
