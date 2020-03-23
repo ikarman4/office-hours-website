@@ -15,6 +15,13 @@ import AboutUs from "./components/about-us";
 
 const EPISODES = [
 
+  {
+    name: "PH.D CANDIDATE JORDAN HARROD",
+    description: "Today on Office Hours: turning passions and ideas into projects, misconceptions about artificial intelligence, and living life in controlled chaos.",
+    link: "http://smarturl.it/h0zigc",
+    imageUrl: "https://office-hours-pod.s3.us-east-2.amazonaws.com/jordan.jpeg",
+    longDescription: "Jordan Harrod is a Ph.D. Student in the Harvard-MIT Health Sciences and Technology program under Dr. Ed Boyden and Dr. Emery Brown. Combining interests in neuroengineering and AI, her research aims to use brain stimulation technology to understand clinical pain and anesthesia. When Jordan isn’t in lab you can find her all over Boston either training for the Spartan Race, recording videos for her youtube channel, or writing for Science in the News. In this episode of Office Hours we talk about turning passions and ideas into projects, misconceptions about artificial intelligence, and living life in controlled chaos."
+  },
 
   {
       name: "PH.D CANDIDATE JENNY VOJTECH",
