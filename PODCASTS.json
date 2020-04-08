@@ -105,41 +105,5 @@
     "enclosure":{"url":""}
   
   }
-
-  // {
-  //   "title": "",
-  //   "description": "",
-  //   "url": "",
-  //   "categories": [
-  //     "Education",
-  //     "Category 2",
-  //     "Category 3",
-  //     "Category 4"
-  //   ],
-  //   "date": "April 9, 2020",
-  //   "itunesDuration": 0000,
-  //   "lat": 42.361145,
-  //   "long": -71.057083,
-  //   "enclosure":{"url":""}
   
-  // }
-
-  // {
-  //   "title": "",
-  //   "description": "",
-  //   "url": "",
-  //   "categories": [
-  //     "Education",
-  //     "Category 2",
-  //     "Category 3",
-  //     "Category 4"
-  //   ],
-  //   "date": "April 9, 2020",
-  //   "itunesDuration": 0000,
-  //   "lat": 42.361145,
-  //   "long": -71.057083,
-  //   "enclosure":{"url":""}
-  
-  // }
-
 ]
