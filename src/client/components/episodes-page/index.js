@@ -7,7 +7,7 @@ function EpisodesPage(props) {
     <div className="episodes-page">
       <div className="episodes-page-content">
         <h2 className="dark">EPISODES</h2>
-        <iframe src="https://open.spotify.com/embed-podcast/episode/1jPypjV2CjbtjmQONS4fwx" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+        <iframe title="Spotify" src="https://open.spotify.com/embed-podcast/episode/1jPypjV2CjbtjmQONS4fwx" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
         <div className="episodes-list">
           {props.episodes.map((episode) => {
             return (
