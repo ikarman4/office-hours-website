@@ -16,6 +16,14 @@ import AboutUs from "./components/about-us";
 const EPISODES = [
 
   {
+    name: "DR. JEFFREY GAVORNIK",
+    description: "In this episode of Office Hours with Dr. Jeffrey Gavornik: MIT and The International Space Station, limitations of biology in studying the brain, and a recipe for some mean Austin Chili.",
+    link: "http://smarturl.it/h0zigc",
+    imageUrl: "https://office-hours-pod.s3.us-east-2.amazonaws.com/Gavornik-1-636x636.jpg",
+    longDescription: "Dr. Jeffrey Gavornik is an assistant professor of neuroscience and neurobiology at Boston University. Graduating with a double major in electrical engineering and history from Rice, Dr. Gavornik went on to work with NASA and Boeing well before he had the chance to fall in love with neuroscience. After a stint at Mark Bear’s lab at MIT, he came to BU, looking to understand how synaptic plasticity in the cortex gives rise to higher level cognition. In this episode of Office Hours, we talk about his work experiences at Boeing and the international space station, limitations of biology in studying the brain, and a recipe for some mean Austin Chili."
+  },
+
+  {
     name: "PH.D CANDIDATE JORDAN HARROD",
     description: "Today on Office Hours: turning passions and ideas into projects, misconceptions about artificial intelligence, and living life in controlled chaos.",
     link: "http://smarturl.it/h0zigc",
