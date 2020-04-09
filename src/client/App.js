@@ -18,7 +18,7 @@ const EPISODES = [
   {
     name: "DR. JEFFREY GAVORNIK",
     description: "In this episode of Office Hours with Dr. Jeffrey Gavornik: MIT and The International Space Station, limitations of biology in studying the brain, and a recipe for some mean Austin Chili.",
-    link: "http://smarturl.it/h0zigc",
+    link: "https://open.spotify.com/episode/1jPypjV2CjbtjmQONS4fwx?si=T2bkJt9wSuSmoQrM7REURg",
     imageUrl: "https://office-hours-pod.s3.us-east-2.amazonaws.com/Gavornik-1-636x636.jpg",
     longDescription: "Dr. Jeffrey Gavornik is an assistant professor of neuroscience and neurobiology at Boston University. Graduating with a double major in electrical engineering and history from Rice, Dr. Gavornik went on to work with NASA and Boeing well before he had the chance to fall in love with neuroscience. After a stint at Mark Bear’s lab at MIT, he came to BU, looking to understand how synaptic plasticity in the cortex gives rise to higher level cognition. In this episode of Office Hours, we talk about his work experiences at Boeing and the international space station, limitations of biology in studying the brain, and a recipe for some mean Austin Chili."
   },
@@ -26,7 +26,7 @@ const EPISODES = [
   {
     name: "PH.D CANDIDATE JORDAN HARROD",
     description: "Today on Office Hours: turning passions and ideas into projects, misconceptions about artificial intelligence, and living life in controlled chaos.",
-    link: "http://smarturl.it/h0zigc",
+    link: "https://open.spotify.com/episode/7iP4daJQXdLhD5smXeINPu?si=dAiB9fxCSSSjVMo0lizzQA",
     imageUrl: "https://office-hours-pod.s3.us-east-2.amazonaws.com/jordan.jpeg",
     longDescription: "Jordan Harrod is a Ph.D. Student in the Harvard-MIT Health Sciences and Technology program under Dr. Ed Boyden and Dr. Emery Brown. Combining interests in neuroengineering and AI, her research aims to use brain stimulation technology to understand clinical pain and anesthesia. When Jordan isn’t in lab you can find her all over Boston either training for the Spartan Race, recording videos for her youtube channel, or writing for Science in the News. In this episode of Office Hours we talk about turning passions and ideas into projects, misconceptions about artificial intelligence, and living life in controlled chaos."
   },
@@ -34,7 +34,7 @@ const EPISODES = [
   {
       name: "PH.D CANDIDATE JENNY VOJTECH",
       description: "The niche field of speech science as well as stories and lessons from her clinical work at the Stepp Lab, Jenny Vojtech today on Office Hours.",
-      link: "http://smarturl.it/h0zigc",
+      link: "https://open.spotify.com/episode/6oJ0Ta9mE1S0pYySQzn2RV?si=3op4PyIeTM2_T2_J7rGBhQ",
       imageUrl: "https://office-hours-pod.s3.us-east-2.amazonaws.com/jenny-vojtech.jpg",
       longDescription: "Jenny Vojtech is a graduate student in the STEPP Lab for Sensorimotor " +
       "Rehabilitation Engineering, where she develops quantitative methods for clinical voice assessment. " +
@@ -48,7 +48,7 @@ const EPISODES = [
   {
     name: "DR. LIZ ARNOLD",
     description: "Today on Office Hours we discuss Dr. Liz Arnold's unique perspective working in both industry and academia, and a reflection on the current undergraduate experience in STEM.",
-    link: "http://smarturl.it/h0zigc",
+    link: "https://open.spotify.com/episode/3qgFQjPu6J9qKmTHpsQqEz?si=N9HMt6LFT9iuowKOIKOpzQ",
     imageUrl: "https://ikarman4.github.io/LizArnold.jpg",
     longDescription: "Dr. Liz Arnold received her Ph.D. at the University of Texas at Austin. Throughout her career," +
       "she has done work for multiple notable pharmaceutical companies in New England such as Pfizer, Vertex, and Novartis." +
@@ -70,7 +70,7 @@ const EPISODES = [
   {
     name: "DR. KYLE GOBROGGE - A COMFORT IN NAIVETE, THE JOURNEY BEGINS",
     description: "Politics in science, traits of successful students, work life balance, all covered in this episode of Office Hours",
-    link: "http://smarturl.it/h0zigc",
+    link: "https://open.spotify.com/episode/3nAscBz1kn5N2WpiRxYW0V?si=n3VLg3PzTdeC_w7ezmu75g",
     imageUrl: "https://ikarman4.github.io/KyleBioPic-e1563549753639.png",
     longDescription: "In this episode of Office Hours, Ian and Ankur set up shop in the office of their 'Principles of" +
       " Neuroscience' lab professor Dr. Kyle Gobrogge. An excellent teacher and an expert in the field of neurobiology, " +
@@ -82,7 +82,7 @@ const EPISODES = [
   {
     name: "ARE WE DOING THIS RIGHT?",
     description: "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it.",
-    link: "http://smarturl.it/h0zigc",
+    link: "https://open.spotify.com/episode/1VmueGvAS1XFJmyZOD7dPE?si=hHKQp2FRTseOD1Q5f39m5Q",
     imageUrl: "https://ikarman4.github.io/podcast-artwork.png",
     longDescription: "Ian and Ankur attempt to put into words the creation of this podcast and what they have planned for it."
   }
