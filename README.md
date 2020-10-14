@@ -8,7 +8,7 @@
 3. checkout a branch `git checkout <branch name>`
 4. Run the project by running `yarn start`. This starts the node server
 
-### Noah's steps to success
+### Steps to success
 1. Create a new branch for what you want to work on `git checkout -b <branch-name>`
 2. Create a new Component for what you want to add
 3. Add your Component to the page Component
